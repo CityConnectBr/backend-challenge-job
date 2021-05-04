@@ -4,7 +4,7 @@
 Esse case tecnico é destinado aos futuros back-end da City Connect. Com esse case queremos conhecer melhor como você trabalha.
 
 # Descrição do caso de uso
-Você recebeu como desafio desenvolver um api rest para um sistema de empregos. 
+Você recebeu como desafio desenvolver uma api rest para um sistema de empregos. 
 
 
 # Requisitos funcionais
